@@ -1,5 +1,5 @@
 function [mins,index]=FindLocalMin1D(a,n)
-%This function finds lockal minima of a vector "a"
+%This function finds local minima of a vector "a"
 %n - number of points before and after the curent point to compere with the current point when searching a minimun
 %the noisear a the bigger should be n 
 mins=[];
